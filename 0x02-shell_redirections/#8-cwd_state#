@@ -1,3 +1,0 @@
-#11;rgb:0000/0000/0000!/bin/bash
-echo "ls -la" > ls_cwd_content
-
